@@ -47,6 +47,5 @@ Here are some of my notable projects:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/saiganeshcs)
-- [Twitter](https://twitter.com/saiganeshcs)
+- [LinkedIn](https://www.linkedin.com/in/imsaiganesh/)
 - [Personal Website](https://www.imsaiganesh.com/)
