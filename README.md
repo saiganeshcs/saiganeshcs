@@ -49,4 +49,4 @@ Here are some of my notable projects:
 
 - [LinkedIn](https://www.linkedin.com/in/saiganeshcs)
 - [Twitter](https://twitter.com/saiganeshcs)
-- [Personal Website](https://saiganeshcs.dev)
+- [Personal Website](https://www.imsaiganesh.com/)
